@@ -6,6 +6,6 @@ cách chạy file:
 2. Chạy file Traffic.py trên CMD hoặc là Terminal bằng lệnh: python3 traffic.py [vị trí đường dẫn của file data(GSTRB)]
 3. Chạy file Recognition.py trên CMD hoặc là Terminal bằng lệnh: python3 recognition.py best_model.keras [vị trí đường dẫn của folder Test]
 
-Đây là bài tập được thực hiện qua Khóa học CS50 AI của trường HAVARD
+Đây là bài tập được cung cấp trong Khóa học CS50 AI của trường HAVARD
 
 Bản quyền: ®ur77ec17235
